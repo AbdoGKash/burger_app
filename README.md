@@ -41,15 +41,15 @@ I want to convert these texts (SAR - 'Quantity reduced' - 'Quantity increased' -
 
 # 🎨 UI
 <img src="https://github.com/user-attachments/assets/95818be9-60a6-41f9-8644-71008cae2004" width="200">
-<img src="https://github.com/user-attachments/assets/786b2114-3488-4c2b-a644-0f19419633ba" width="200">
+<img src="https://github.com/user-attachments/assets/04128208-4f6c-482d-807d-16eb06248d16" width="200">
 
 
 # 🌟 Interact with the page
-<img src="https://github.com/user-attachments/assets/e99d108e-7496-451b-902e-9d51c4cffe0b" width="200">
-<img src="https://github.com/user-attachments/assets/6d0e7af5-8d59-4ae1-8445-c4cde2f983bf" width="200">
-<img src="https://github.com/user-attachments/assets/8c6fadd3-92be-4045-97a6-89f4fbef1585" width="200">
-<img src="https://github.com/user-attachments/assets/11815451-d18c-4146-b94a-7a900a1d63c9" width="200">
-<img src="https://github.com/user-attachments/assets/b888137b-10c8-4cf0-a414-e7243d2601f5" width="200">
+<img src="https://github.com/user-attachments/assets/91821933-293d-40bd-960a-c084dba4d9bd" width="200">
+<img src="https://github.com/user-attachments/assets/66dffe35-435a-455d-85ad-cedbe916cf2e" width="200">
+<img src="https://github.com/user-attachments/assets/24f1b016-c904-4f1b-a235-e52e8bc26517" width="200">
+<img src="https://github.com/user-attachments/assets/e81f723f-a96b-45df-8f00-c6434efbf28b" width="200">
+<img src="https://github.com/user-attachments/assets/1129f669-b1fb-4167-9fc2-f1a2c973fe07" width="200">
 
 
 
