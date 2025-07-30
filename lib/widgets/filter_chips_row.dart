@@ -24,9 +24,14 @@ class FilterChipsRow extends StatelessWidget {
           return FilterChip(
             label: Text(
               filters[index],
-              style: TextStyle(
-                color: isSelected ? Color(0xFF7CA0B1) : Color(0xFF0E323D),
-                fontWeight: FontWeight.w500,
+              style:isSelected  ?TextStyle(
+                color:  Color(0xFF7CA0B1),
+                fontWeight: FontWeight.bold,
+                fontSize: 13.0,
+              ): TextStyle(
+                color:  Color(0xFF0E323D),
+                fontWeight: FontWeight.bold,
+                  fontSize: 13.0,
               ),
             ),
             selected: isSelected,

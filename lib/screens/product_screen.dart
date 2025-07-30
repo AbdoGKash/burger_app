@@ -14,6 +14,7 @@ class ProductScreen extends StatelessWidget {
 
     return Scaffold(
       appBar: AppBar(
+        backgroundColor: Color(0xFFF2F8FD),
         actions: [
           InkWell(
             onTap:
