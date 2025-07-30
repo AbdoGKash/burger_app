@@ -36,28 +36,23 @@ I want to convert these texts (SAR - 'Quantity reduced' - 'Quantity increased' -
 
 # 🔧 Project Structure:
 
-<img src="https://github.com/user-attachments/assets/5a76e630-c921-45d2-9476-cf555ed5c70f" width="500">
+<img src="https://github.com/user-attachments/assets/5a76e630-c921-45d2-9476-cf555ed5c70f" width="600">
 
 
 # 🎨 UI
 <img src="https://github.com/user-attachments/assets/95818be9-60a6-41f9-8644-71008cae2004" width="200">
-<img src="https://github.com/user-attachments/assets/04128208-4f6c-482d-807d-16eb06248d16" width="200">
+<img src="https://github.com/user-attachments/assets/a9148c76-1652-440d-9b63-d750cd6efbce" width="200">
 
 
 # 🌟 Interact with the page
-<img src="https://github.com/user-attachments/assets/91821933-293d-40bd-960a-c084dba4d9bd" width="200">
-<img src="https://github.com/user-attachments/assets/66dffe35-435a-455d-85ad-cedbe916cf2e" width="200">
-<img src="https://github.com/user-attachments/assets/24f1b016-c904-4f1b-a235-e52e8bc26517" width="200">
-<img src="https://github.com/user-attachments/assets/e81f723f-a96b-45df-8f00-c6434efbf28b" width="200">
-<img src="https://github.com/user-attachments/assets/1129f669-b1fb-4167-9fc2-f1a2c973fe07" width="200">
+<img src="https://github.com/user-attachments/assets/9fadefb2-5cce-4256-bf37-15940187109c" width="200">
+<img src="https://github.com/user-attachments/assets/2b9a04d6-d646-4a9e-886a-6c5f89df6f9d" width="200">
+<img src=https://github.com/user-attachments/assets/087c3cfb-fdee-4172-88b6-b688575c806c width="200">
+<img src="https://github.com/user-attachments/assets/e23dd9ad-58b1-4851-8a0e-9dff3f2ab3bf" width="200">
+<img src="https://github.com/user-attachments/assets/8f6c74e7-6e99-419c-af09-0ff15025c002" width="200">
 
 
 # 🌟 App demo video
 
 ### [YouTube](https://www.youtube.com/watch?v=15UF9vRm0Z8)
-
-
-
-
-
 
