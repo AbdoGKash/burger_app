@@ -52,6 +52,10 @@ I want to convert these texts (SAR - 'Quantity reduced' - 'Quantity increased' -
 <img src="https://github.com/user-attachments/assets/1129f669-b1fb-4167-9fc2-f1a2c973fe07" width="200">
 
 
+# 🌟 App demo video
+
+### [YouTube](https://www.youtube.com/watch?v=15UF9vRm0Z8)
+
 
 
 
